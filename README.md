@@ -4,7 +4,7 @@
 
 **Track:** Agents That Act on Connected Data · **Live:** _your-vercel-url_ · **Video:** _your-video-url_
 
-![TrojanGraph](demo-video/public/shots/s2-plaid-result.png)
+![TrojanGraph](docs/screenshot.png)
 
 ## The idea
 
@@ -127,7 +127,6 @@ app/api/reset    wipe + reseed the graph
 app/api/health   connectivity + node/edge counts
 lib/             falkordb client, scan, seed, draft
 components/      signal panel, Cypher terminal, graph canvas, dossier
-demo-video/      Remotion project for the demo video
 ```
 
 ## Run locally
@@ -153,7 +152,7 @@ npm run dev                  # http://localhost:3000
 ## Data & AI disclosure
 
 - **Data:** fully synthetic. People, handles, emails and relationships are invented; company names are only illustrative targets. No private or scraped data.
-- **AI assistance:** built with Cursor (Claude) for scaffolding, boilerplate, debugging and the Remotion demo video. The concept, graph model, queries and architecture were designed, reviewed and verified by the author against a live FalkorDB Cloud instance.
+- **AI assistance:** built with Cursor (Claude) for scaffolding, boilerplate, debugging and producing the demo video. The concept, graph model, queries and architecture were designed, reviewed and verified by the author against a live FalkorDB Cloud instance.
 
 ## License
 
