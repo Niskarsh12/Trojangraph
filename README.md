@@ -2,7 +2,7 @@
 
 **Turn one developer complaint into a warm enterprise intro, by walking a graph.**
 
-**Track:** Agents That Act on Connected Data · **Live:** _your-vercel-url_ · **Video:** _your-video-url_
+**Track:** Agents That Act on Connected Data ·
 
 ![TrojanGraph](docs/screenshot.png)
 
